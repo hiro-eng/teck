@@ -79,7 +79,7 @@ h3{
 
 
 .header-right{
-              
+              text-align:right;
               float:right;
               position:fixed;
               top:10px; right:10px;
