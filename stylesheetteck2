@@ -1,0 +1,184 @@
+body{ margin:10px;
+      font-size:16px;
+      background-color:#f5f5dc;
+ 
+    
+         }
+
+.header{   height:50px;
+          
+            }
+.header img{
+     position:fixed;
+     top:10px;
+     left:10px;
+     margin-left:0px;
+         }
+ .menu-wrapper{
+      margin-top:0px;
+      margin-left:0px;
+      font-size:20px;
+  
+ 
+        }
+.container{
+       width:100%;
+          }
+
+.top-wrapper {
+           margin-bottom:50px;
+           margin-top:50px;
+          }
+.box1-wrapper{
+           margin-bottom:50px;
+           margin-top:50px;
+          }
+ .box2-wrapper{
+           margin-bottom:50px;
+           margin-top:50px;
+          }
+.news-wrapper{
+           margin-bottom:50px;
+           margin-top:50px;
+          }
+
+.sponsor-wrapper{
+           margin-bottom:50px;
+           margin-top:50px;
+          }
+
+.teck-wrapper{
+           margin-bottom:0px;
+           margin-top:50px;
+          }
+ footer{
+ background-color:gray;
+ height:140px;
+ border-radius:10px 10px 10px 10px;
+              }
+.footer-logo{
+    font-size:24px;
+    padding-top:20px;
+    padding-left:20px;
+              }
+
+h1{
+    font-size:35px;
+    font-weight:bold;
+          }
+
+h2{
+    font-size:28px;
+    font-weight:bold;
+          }
+h3{
+    font-size:32px;
+    font-weight:bold;
+          }
+
+
+
+.header-right{
+              
+              float:right;
+              position:fixed;
+              top:10px; right:10px;
+              font-weight:bold;
+              border-bottom:solid 1px black; 
+              }
+
+li{float:left;
+    padding-right:30px;
+   list-style:none;
+　　font-size:20px;
+    margin-left:0px;
+    font-weight:bold;
+}
+ ul{
+        margin-left:0px;
+}
+ 
+ .menu-wrapper{
+    margin-left:0px;
+ }
+ 
+
+
+
+.sns-wrapper{position:fixed;
+          right:20px;
+          bottom:10px;
+          font-weight:bold;
+           margin-bottom:50px;
+          margin-top:50px;
+           background-color:gray;
+         border-radius:10px 10px 10px 10px;
+         
+          }
+.sns-text{
+       width:100px;
+          height:80px;
+          padding:5px 5px 5px 5px;
+}
+
+
+
+.box-title{
+           font-weight:bold;
+           font-size:22px;
+           }
+
+
+
+ a{color:black}
+
+
+.footer-logo{
+  font-weight:bold;
+  font-size:22px;
+       }
+a:hover{
+    color:crimson;
+      }
+
+.btn-shine { 
+height:25px;
+width:250px;
+color:white; 
+background-color:darkgreen;  cursor: pointer; line-height: normal; text-decoration: none; 
+border: 2px solid transparent; 
+padding: 10px 10px; font-size:18px; font-weight:bold;
+display: flex; justify-content: center; align-items: center; 
+position: relative; overflow: hidden; 
+} 
+
+.btn-shine:hover{ color:darkgreen; background-color:white; } /* ボタンを光らせる */ .btn-shine:before { /*光るアニメーション用*/ 
+animation: shine 6s ease-in-out infinite;/*数字を変更することで光る間隔が変更*/ 
+background-color: #fff; content: " "; height: 100%; left: 0; opacity: 0; position: absolute; top: -180px; transform: rotate(45deg); 
+width: 40px; }
+
+ @keyframes shine { 0% { transform: scale(0) rotate(45deg); opacity: 0; } 80% { transform: scale(0) rotate(45deg); opacity: 0.5; } 81% { transform: scale(4) rotate(45deg); opacity: 1; } 100% { transform: scale(50) rotate(45deg); 
+opacity: 0; } }
+
+
+#ccc{
+     text-decoration:none;
+          }
+
+@keyframes typing {
+	from { width: 0; }
+}
+
+@keyframes cursor {
+	50% { border-right-color: transparent; }
+}
+
+.anime-type {
+	font: bold 250% Consolas, Monaco, monospace;
+	width: 33ch;
+	overflow: hidden;
+	white-space: nowrap;
+	border-right: .05em solid;
+	animation: typing 4s steps(33),
+	cursor 1s steps(1) infinite;
+}
