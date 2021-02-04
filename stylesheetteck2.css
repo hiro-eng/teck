@@ -1,5 +1,5 @@
 body{ margin:10px;
-      font-size:16px;
+      font-size:20px;
       background-color:#f5f5dc;
  
     
@@ -147,7 +147,7 @@ width:250px;
 color:white; 
 background-color:darkgreen;  cursor: pointer; line-height: normal; text-decoration: none; 
 border: 2px solid transparent; 
-padding: 10px 10px; font-size:18px; font-weight:bold;
+padding: 10px 10px; font-size:18px; font-weight:bold; text-align:center;
 display: flex; justify-content: center; align-items: center; 
 position: relative; overflow: hidden; 
 } 
