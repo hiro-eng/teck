@@ -181,7 +181,7 @@ opacity: 0; } }
 }
 
 .anime-type {
-	font: bold 250% Consolas, Monaco, monospace;
+	font: bold Consolas, Monaco, monospace;
 	width: 10ch;
 	overflow: hidden;
 	white-space: nowrap;
