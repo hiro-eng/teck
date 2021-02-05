@@ -3,6 +3,8 @@ body{ margin:10px;
       background-color:#f5f5dc;
 font-family: "Lucida Grande";
 	font-weight:;
+	  background-image:url("https://github.com/hiro-eng/teckmb/blob/main/IMG_20210106_120823.jpg?raw=true");
+background-size:cover;
  
     
          }
@@ -35,8 +37,7 @@ font-family: "Lucida Grande";
 .top-wrapper {
            margin-bottom:50px;
            margin-top:50px;
-	   background-image:url("https://github.com/hiro-eng/teckmb/blob/main/IMG_20210106_120823.jpg?raw=true");
-background-size:cover;
+	 
           }
 .box1-wrapper{
            margin-bottom:50px;
