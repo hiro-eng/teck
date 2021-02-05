@@ -8,8 +8,8 @@ font-family: "Lucida Grande";
          }
 #yajirushi{
 	position:fixed;
-	margin-bottom:0;
-	margin-right:10;
+	bottom:0px;
+	right:10px;
 }
 .header{   height:50px;
           
