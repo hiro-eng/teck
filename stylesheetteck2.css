@@ -17,7 +17,7 @@ body{ margin:10px;
  .menu-wrapper{
       margin-top:0px;
       margin-left:0px;
-      font-size:11px;
+      font-size:12px;
   
  
         }
@@ -52,7 +52,7 @@ body{ margin:10px;
            margin-top:50px;
           }
  footer{
- background-color:gray;
+ background-color:;
  height:80px;
  border-radius:0px 0px 10px 10px;
               }
@@ -91,7 +91,7 @@ h3{
 li{float:left;
     padding-right:5px;
    list-style:none;
-　　font-size:11px;
+　　font-size:12px;
     margin-left:0px;
     font-weight:bold;
 }
