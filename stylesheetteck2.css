@@ -99,7 +99,9 @@ li{float:left;
 text-align:left;
 }
 
-
+ul{
+	text-align:left;
+}
 
 .sns-wrapper{position:fixed;
           left:10px;
