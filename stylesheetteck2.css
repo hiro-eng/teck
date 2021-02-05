@@ -6,7 +6,11 @@ font-family: "Lucida Grande";
  
     
          }
-
+#yajirushi{
+	position:fixed;
+	margin-bottom:0px;
+	margin-right:10px;
+}
 .header{   height:50px;
           
             }
