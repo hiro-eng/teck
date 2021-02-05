@@ -182,10 +182,10 @@ opacity: 0; } }
 
 .anime-type {
 	font: bold 250% Consolas, Monaco, monospace;
-	width: 33ch;
+	width: 10ch;
 	overflow: hidden;
 	white-space: nowrap;
 	border-right: .05em solid;
-	animation: typing 4s steps(33),
+	animation: typing 4s steps(10),
 	cursor 1s steps(1) infinite;
 }
