@@ -17,7 +17,7 @@ body{ margin:10px;
  .menu-wrapper{
       margin-top:0px;
       margin-left:0px;
-      font-size:10px;
+      font-size:15px;
   
  
         }
@@ -89,9 +89,9 @@ h3{
               }
 
 li{float:left;
-    padding-right:10px;
+    padding-right:5px;
    list-style:none;
-　　font-size:10px;
+　　font-size:15px;
     margin-left:0px;
     font-weight:bold;
 }
