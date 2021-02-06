@@ -1,10 +1,11 @@
 body{ margin:10px;
       font-size:20px;
       background-color:#f5f5dc;
-font-family: "Lucida Grande";
+
+font-family:monospace,monospace; font-size:inherit;
 	font-weight:;
 	     
-         }
+         }font-family: "Lucida Grande";
 #yajirushi{
 	position:fixed;
 	bottom:160px;
@@ -75,7 +76,7 @@ h1{
     font-weight:bold;
           }
 
-h2{  font-family:monospace,monospace; font-size:inherit;
+h2{  
     font-size:25px;
     font-weight:bold;
           }
