@@ -7,7 +7,7 @@ font-family: "Lucida Grande";
          }
 #yajirushi{
 	position:fixed;
-	bottom:100px;
+	bottom:130px;
 	right:10px;
 }
 .header{   height:50px;
@@ -125,7 +125,7 @@ ul{
           height:;
           padding:5px 5px 5px 5px;
 	 text-align:center;
-	 float:;
+	 float:right;
 }
 
 
@@ -138,7 +138,10 @@ ul{
 
 
  a{color:black}
-
+footer{
+height:60px;
+background-color:darkgreen;
+}
 
 .footer-logo{
   font-weight:bold;
