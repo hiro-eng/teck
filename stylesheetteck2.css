@@ -5,7 +5,9 @@ body{ margin:10px;
 font-family:monospace,monospace; font-size:inherit;
 	font-weight:;
 	     
-         }font-family: "Lucida Grande";
+         }
+font-family: "Lucida Grande";
+
 #yajirushi{
 	position:fixed;
 	bottom:160px;
@@ -139,9 +141,10 @@ ul{
 
 
  a{color:black}
+
 footer{
 height:60px;
-background-color:darkgreen;
+background-color:black;
 }
 
 .footer-logo{
