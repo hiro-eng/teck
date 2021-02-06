@@ -64,8 +64,9 @@ font-family:monospace,monospace; font-size:inherit;
            margin-top:50px;
           }
  footer{
- background-color:black;
- height:80px;
+ background-color:;
+ height:140px;
+boeder: solid 3px black;
  border-radius:0px 0px 10px 10px;
               }
 .footer-logo{
