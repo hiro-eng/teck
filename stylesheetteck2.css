@@ -59,7 +59,7 @@ font-family: "Lucida Grande";
            margin-top:50px;
           }
  footer{
- background-color:darkgreen;
+ background-color:black;
  height:80px;
  border-radius:0px 0px 10px 10px;
               }
@@ -75,7 +75,7 @@ h1{
     font-weight:bold;
           }
 
-h2{
+h2{  font-family:monospace,monospace; font-size:inherit;
     font-size:25px;
     font-weight:bold;
           }
