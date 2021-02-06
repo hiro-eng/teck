@@ -1,3 +1,5 @@
+
+
 body{ margin:10px;
       font-size:20px;
       background-color:#f5f5dc;
@@ -6,7 +8,7 @@ font-family:monospace,monospace; font-size:inherit;
 	font-weight:;
 	     
          }
-font-family: "Lucida Grande";
+
 
 #yajirushi{
 	position:fixed;
@@ -196,3 +198,4 @@ opacity: 0; } }
 	animation: typing 4s steps(33),
 	cursor 1s steps(1) infinite;
 }
+font-family: "Lucida Grande";
