@@ -26,12 +26,7 @@ font-family:monospace,monospace; font-size:inherit;
      margin-left:0px;
 z-index:1;
          }
- .menu-wrapper{
-      margin-top:0px;
-      margin-left:0px;
-      font-size:12px;
-	text-align:left;
-  
+ 
  
         }
 .container{
@@ -40,7 +35,7 @@ z-index:1;
 
 .top-wrapper {
            margin-bottom:50px;
-           margin-top:50px;
+           margin-top:20px;
 	 
           }
 .box1-wrapper{
