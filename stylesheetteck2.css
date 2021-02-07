@@ -8,7 +8,10 @@ font-family:monospace,monospace; font-size:inherit;
 	font-weight:;
 	     
          }
-
+#back{
+background-color:black;
+color:#f5f5dc;
+}
 
 #yajirushi{
 	position:fixed;
