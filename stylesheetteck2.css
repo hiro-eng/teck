@@ -23,7 +23,7 @@ font-family:monospace,monospace; font-size:inherit;
      top:10px;
      left:10px;
      margin-left:0px;
-z-index:auto;
+z-index:1;
          }
  .menu-wrapper{
       margin-top:0px;
