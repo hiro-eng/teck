@@ -98,6 +98,7 @@ h3{
               position:fixed;
               top:10px; right:10px;
               font-weight:normal;
+	      font-size:large;
             
               }
 
@@ -124,7 +125,8 @@ ul{
            background-color:;
          border-radius:10px 10px 10px 10px;
 	 text-align:right;
-         
+           font-size:large;
+            
           }
 .sns-text{
        width:;
@@ -132,6 +134,8 @@ ul{
           padding:5px 5px 5px 5px;
 	 text-align:right;
 	 float:right;
+	  font-size:large;
+            
 }
 
 
